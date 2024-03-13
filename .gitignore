@@ -1,0 +1,6 @@
+# byte-compiled files
+__pycache__/
+
+# OS generated files
+.DS_Store
+Thumbs.db
